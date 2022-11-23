@@ -23,8 +23,8 @@ import www.sanju.motiontoast.databinding.MotionToastBinding
 class MotionToast {
     companion object {
 
-        const val LONG_DURATION = 5000L // 5 seconds
-        const val SHORT_DURATION = 2000L // 2 seconds
+        const val LONG_DURATION = 9000L // 9 seconds
+        const val SHORT_DURATION = 6000L // 6 seconds
         const val GRAVITY_TOP = 50
         const val GRAVITY_CENTER = 20
         const val GRAVITY_BOTTOM = 80
