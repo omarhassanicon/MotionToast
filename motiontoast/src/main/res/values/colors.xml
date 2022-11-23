@@ -5,9 +5,9 @@
     <color name="colorAccent">#0340DA</color>
 
     <!--    Background Colors-->
-    <color name="warning_color">#FBC02D</color>
-    <color name="error_color">#D50000</color>
-    <color name="success_color">#17B978</color>
+    <color name="warning_color">#FF9800</color>
+    <color name="error_color">#F44336</color>
+    <color name="success_color">#49e9a9</color>
     <color name="info_color">#0340DA</color>
     <color name="delete_color">#0288D1</color>
 
