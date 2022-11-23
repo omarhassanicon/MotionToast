@@ -6,11 +6,11 @@
 
 <!--    Background Colors-->
 
-    <color name="warning_color">#FBC02D</color>
-    <color name="error_color">#D50000</color>
-    <color name="success_color">#17B978</color>
-    <color name="info_color">#0004FF</color>
-    <color name="delete_color">#0288D1</color>
+    <color name="warning_color">#fbcb50</color>
+    <color name="error_color">#ff6666</color>
+    <color name="success_color">#77eebe</color>
+    <color name="info_color">#4d4fff</color>
+    <color name="delete_color">#4ec0fd</color>
 
 <!--    Background Transparent Colors-->
     <color name="warning_bg_color">#33FBC02D</color>
